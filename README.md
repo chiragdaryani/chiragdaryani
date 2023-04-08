@@ -10,7 +10,7 @@
 - 💬 I love having great conversations, trying new foods, and drinking coffee while reading or learning something new.
 - 🤝🏻 I'm always open for collaborations in the domains of data science and machine learning, so if you have any interesting project ideas or just want to chat, feel free to reach out to me at chiragdaryani@outlook.com. I'd love to hear from you!
 
-### You can also find me on:
+#### You can also find me on:
 
 - LinkedIn: https://www.linkedin.com/in/chiragdaryani/
 - Medium Blog: https://chiragdaryani.medium.com/
