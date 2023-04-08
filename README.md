@@ -1,8 +1,8 @@
 ### Hi there, I'm Chirag 👋 
 
-<div style="text-align:center">
-    <img src="./icon/Memoji.png" alt="My Profile Pic" width="160"/>
-</div>
+<p align="center">
+    <img src="./icon/Memoji.png" alt="My Profile Pic" width="200" style="display:block; margin:auto;"/>
+</p>
 
 - 📍 I'm currently based in Alberta, Canada 🇨🇦
 - 💼 As a data scientist, I utilize my expertise to develop predictive models and extract insights from complex data.
