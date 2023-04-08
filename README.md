@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Chirag 👋
 
-<!--
-**chiragdaryani/chiragdaryani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Profile Pic](./icon/Memoji.png)
 
-Here are some ideas to get you started:
+📍 I'm currently based in Alberta, Canada 🇨🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 As a data scientist, I utilize my expertise to develop predictive models and extract insights from complex data.
+
+🎓 I graduated with a Master's degree in Computer Science from the University of Alberta.
+
+💬 I love having great conversations, trying new foods, and drinking coffee while reading or learning something new.
+
+🤝🏻 I'm always open for collaborations in the domains of data science and machine learning.
+
+📫 You can reach me via email at chiragdaryani@outlook.com, and I'd love to hear from you!
+
+Feel free to follow me on:
+
+LinkedIn: https://www.linkedin.com/in/chiragdaryani/
+Medium Blog: https://chiragdaryani.medium.com/
