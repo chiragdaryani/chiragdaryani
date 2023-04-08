@@ -4,8 +4,8 @@
   <img src="./icon/Memoji.png" alt="My Profile Pic" width="150"/>
 </p>
 
+- 💼 I am a Data Scientist with expertise in developing predictive models and extracting insights from complex data.
 - 📍 I'm currently based in Alberta, Canada 🇨🇦
-- 💼 As a data scientist, I utilize my expertise to develop predictive models and extract insights from complex data.
 - 🎓 I graduated with a Master's degree in Computer Science from the University of Alberta.
 - 💬 I love having great conversations, trying new foods, and drinking coffee while reading or learning something new.
 - 🤝🏻 I'm always open for collaborations in the domains of data science and machine learning.
