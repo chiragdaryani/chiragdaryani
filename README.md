@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag 👋
 
-![My Profile Pic](./icon/Memoji.png)
+<img src="./icon/Memoji.png" alt="My Profile Pic" width="200"/>
 
 📍 I'm currently based in Alberta, Canada 🇨🇦
 
@@ -14,7 +14,7 @@
 
 📫 You can reach me via email at chiragdaryani@outlook.com, and I'd love to hear from you!
 
-Feel free to follow me on:
+### Feel free to follow me on:
 
-LinkedIn: https://www.linkedin.com/in/chiragdaryani/
-Medium Blog: https://chiragdaryani.medium.com/
+- LinkedIn: https://www.linkedin.com/in/chiragdaryani/
+- Medium Blog: https://chiragdaryani.medium.com/
