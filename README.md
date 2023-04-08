@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag 👋 
 
-<p align="center">
+<p>
   <img src="./icon/Memoji.png" alt="My Profile Pic" width="150"/>
 </p>
 
