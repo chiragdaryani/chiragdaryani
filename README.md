@@ -1,7 +1,7 @@
 ### Hi there, I'm Chirag 👋 
 
 <p align="center">
-    <img src="./icon/Memoji.png" alt="My Profile Pic" width="200" style="display:block; margin:auto;"/>
+  <img src="./icon/Memoji.png" alt="My Profile Pic" width="150"/>
 </p>
 
 - 📍 I'm currently based in Alberta, Canada 🇨🇦
