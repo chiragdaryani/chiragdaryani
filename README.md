@@ -1,9 +1,5 @@
 ### Hi there, I'm Chirag 👋 
 
-<p>
-  <img src="./icon/Memoji.png" alt="My Profile Pic" width="150"/>
-</p>
-
 - 💼 I am a Data Scientist with expertise in developing predictive models and extracting insights from complex data.
 - 🎓 I graduated with a Master's degree in Computer Science from the University of Alberta.
 - 📍 I'm currently based in Toronto, Canada 🇨🇦
